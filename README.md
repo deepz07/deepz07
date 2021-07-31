@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with Cloud
-- 📫 How to reach me: deepluthra@gmail.com
+- 📫 How to reach me: [Gmail: Deepanshu Luthra](deepluthra11@gmail.com)
