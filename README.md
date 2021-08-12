@@ -1,7 +1,7 @@
-# Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Deepanshu Luthra. A passionate Programmer 
+<h1 align="center">Hi 👋, I'm Deepanshu Luthra</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepz07&label=Profile%20views&color=0e75b6&style=flat" alt="deepz07" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepz07&count_private=true)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepz07&count_private=true" alt="deepz07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with *Cloud*
 
-- 📫 How to reach me ***deepluthra11@gmail.com***
+- 📫 How to reach me *deepluthra11@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
