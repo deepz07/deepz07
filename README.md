@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Java*
+- 🌱 I’m currently learning *Devops*
 
-- 🤝 I’m looking for help with *Cloud*
+- 🤝 I’m AWS Certified Cloud Practitioner
 
 - 📫 How to reach me *deepluthra11@gmail.com*
 
