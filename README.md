@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Devops*
 
-- 🤝 I’m AWS Certified Cloud Practitioner
+- 🤝 I’m AWS Certified Solution Architect-Associate
 
 - 📫 How to reach me *deepluthra11@gmail.com*
 
